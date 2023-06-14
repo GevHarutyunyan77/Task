@@ -1,0 +1,18 @@
+{
+  "Header":{
+    "all": "ALL",
+    "car": "CAR",
+    "bus": "BUS",
+    "truck": "TRUCK"
+  },
+  "footer": {
+    "text": "See on map"
+  },
+  "driver": {
+    "name": "Name",
+    "phone": "Phone",
+    "category": "Category",
+    "vehicleNumber": "Vehicle Number"
+  },
+  "languageTitle": "Language"
+}

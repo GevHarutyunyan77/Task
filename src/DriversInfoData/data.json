@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "location": {
+      "latitude": 37.78825,
+      "longitude": -122.4324
+    },
+    "driverInfo": {
+      "name": "John Smith",
+      "phone": "+37477775747"
+    },
+    "carInfo": {
+      "category": "car",
+      "carNumber": "45 OL 999"
+    }
+  },
+  {
+    "id": 2,
+    "location": {
+      "latitude": 37.766432603810046,
+      "longitude": -122.43199903517962
+    },
+    "driverInfo": {
+      "name": "Lionel Messi",
+      "phone": "+37477778774"
+    },
+    "carInfo": {
+      "category": "bus",
+      "carNumber": "44 SS 451"
+    }
+  },
+  {
+    "id": 3,
+    "location": {
+      "latitude": 37.8016769669415,
+      "longitude": -122.4122492596507
+    },
+    "driverInfo": {
+      "name": "Luis Suarez",
+      "phone": "+37498108820"
+    },
+    "carInfo": {
+      "category": "truck",
+      "carNumber": "18 ZW 224"
+    }
+  },
+  {
+    "id": 4,
+    "location": {
+      "latitude": 37.76331009626791,
+      "longitude": -122.43503328412773
+    },
+    "driverInfo": {
+      "name": "Paul Anderson",
+      "phone": "+37498104565"
+    },
+    "carInfo": {
+      "category": "car",
+      "carNumber": "25 NN 110"
+    }
+  },
+  {
+    "id": 5,
+    "location": {
+      "latitude": 37.77104840435683,
+      "longitude": -122.41442453116177
+    },
+    "driverInfo": {
+      "name": "Armen Sargsyan",
+      "phone": "+37498871187"
+    },
+    "carInfo": {
+      "category": "bus",
+      "carNumber": "64 MO 247"
+    }
+  },
+  {
+    "id": 6,
+    "location": {
+      "latitude": 37.74668339348518,
+      "longitude": -122.43617691099644
+    },
+    "driverInfo": {
+      "name": "Vardan Sahakyan",
+      "phone": "+37499558747"
+    },
+    "carInfo": {
+      "category": "truck",
+      "carNumber": "33 XX 410"
+    }
+  },
+  {
+    "id": 7,
+    "location": {
+      "latitude": 37.765647284765755,
+      "longitude": -122.44533631950618
+    },
+    "driverInfo": {
+      "name": "Shahe Shahinyan",
+      "phone": "+37455109632"
+    },
+    "carInfo": {
+      "category": "car",
+      "carNumber": "22 AA 632"
+    }
+  },
+  {
+    "id": 8,
+    "location": {
+      "latitude": 37.798332428338746,
+      "longitude": -122.41701276237393
+    },
+    "driverInfo": {
+      "name": "Rafo Petrosyan",
+      "phone": "+37455236910"
+    },
+    "carInfo": {
+      "category": "bus",
+      "carNumber": "89 BV 879"
+    }
+  },
+  {
+    "id": 9,
+    "location": {
+      "latitude": 37.75157693335516,
+      "longitude": -122.40601893645051
+    },
+    "driverInfo": {
+      "name": "Marc Antony",
+      "phone": "+37494552140"
+    },
+    "carInfo": {
+      "category": "truck",
+      "carNumber": "14 CC 788"
+    }
+  },
+  {
+    "id": 10,
+    "location": {
+      "latitude": 37.75266225693654,
+      "longitude": -122.4352717519604
+    },
+    "driverInfo": {
+      "name": "James Bond",
+      "phone": "+3747775413"
+    },
+    "carInfo": {
+      "category": "car",
+      "carNumber": "45 SA 410"
+    }
+  },
+  {
+    "id": 11,
+    "location": {
+      "latitude": 37.722755475719275,
+      "longitude": -122.43613935817741
+    },
+    "driverInfo": {
+      "name": "Angelina Jolie",
+      "phone": "+37455128847"
+    },
+    "carInfo": {
+      "category": "bus",
+      "carNumber": "14 XX 569"
+    }
+  },
+  {
+    "id": 12,
+    "location": {
+      "latitude": 37.790386408435296,
+      "longitude": -122.44886668457252
+    },
+    "driverInfo": {
+      "name": "Bred Pith",
+      "phone": "+37444547874"
+    },
+    "carInfo": {
+      "category": "truck",
+      "carNumber": "20 HH 210"
+    }
+  },
+  {
+    "id": 13,
+    "location": {
+      "latitude": 37.775260625375395,
+      "longitude": -122.45963520068753
+    },
+    "driverInfo": {
+      "name": "Tom Cruz",
+      "phone": "+37444112245"
+    },
+    "carInfo": {
+      "category": "car",
+      "carNumber": "10 XX 154"
+    }
+  }
+]
+
+
